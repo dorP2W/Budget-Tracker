@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import { useTransContext } from '../context/TransContext'
 import { TransType } from '../types/types';
 

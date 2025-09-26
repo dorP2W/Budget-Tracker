@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import { useTransContext } from '../context/TransContext'
 import { format } from 'date-fns';
 import { TransType } from '../types/types';
